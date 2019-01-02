@@ -68,6 +68,8 @@ public class MainActivity extends AppCompatActivity
     public static String contactPhone;
     public static String contactAddress;
 
+    public static String selectedCard = "0";
+
     // FOR PERMISSION
 
     private static final int CONTACT_PERMISSION_REQCODE = 123;
